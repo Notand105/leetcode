@@ -9,6 +9,7 @@ func main() {
 
 }
 
+// s
 func duplicatedNum(nums []int, target int) bool {
 
 	for i := 0; i < len(nums)-1; i++ {
