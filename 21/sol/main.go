@@ -15,7 +15,7 @@ func mergeArr(list1, list2 []int) []int {
 	//TODO comparar primer elemento de ambas listas, y eliminar ese de la lista inicial
 	//Una vez la len de una lista sea igual a 0, añadir el resto de las que quedan en la otra lista
 	// O investigar como implementar una estructura de datos similar a las listas enlazadas en golang
-	//ver si existe alguna forma de OOP
+	//ver si existe alguna forma de OOP ver senio go en youtube para ver que ral
 
 	aux := []int{}
 	j := 0
